@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@lit-protocol/lit-node-client": "^2.2.63"
+  }
+}

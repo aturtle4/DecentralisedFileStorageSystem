@@ -38,6 +38,7 @@ main {
     border-radius: 15px;
 }
 
+
 .droparea i {
     font-size: 3rem;
     padding-top: 1rem;
@@ -55,7 +56,15 @@ main {
     font-size: 85px;
     font-family:'Times New Roman', Times, serif;
     padding-top: 5%;
+    text-align: left;
     padding-bottom: 10%;
+}
+#frame-box {
+    width: 420px;
+    height: 425px;
+    float :right;
+    margin-right: -1000px;
+    margin-top: 20px;
 }
 
 /* New styles for displaying file names */
